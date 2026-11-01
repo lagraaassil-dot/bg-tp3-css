@@ -72,7 +72,7 @@ footer {
     width: 100%;
     height: 400px;
     background-color: white;
-    background-image: url('../img/Step14_img/slide1.png');
+    background-image: url('../img/Step14_img/hero_badges.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 30%;
@@ -161,7 +161,7 @@ margin-left: 10px;
 
 #bigData-intro {
 height:350px;
-background-image: url('../img/Step14_img/bigdata.png');
+background-image: url('../img/Step14_img/banner_cybersecurity.png');
 background-position: center;
 background-size: cover;
 margin-bottom: 20px;
@@ -188,7 +188,7 @@ margin-bottom: 20px;
 .ruban{
     width: 100%;
     height: 350px;
-    background-image: url('../img/Step14_img/carbon2.jpg');
+    background-image: url('../img/Step14_img/ribbon_bg.jpg');
     background-size: 100% 100%;
     background-position: center top; ;
     background-repeat: no-repeat;
